@@ -1,0 +1,3 @@
+NOTE:
+Any sentence passed to the program will be dynamically allocated.
+However, be aware that if you pass a sentence too large bad things may happen because it is being manipulated on the stack."      
